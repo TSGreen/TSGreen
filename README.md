@@ -6,7 +6,7 @@
 [<img src ="https://img.shields.io/badge/Personal-Webpage-red.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://tsgreen.github.io/) 
 - :chart_with_upwards_trend: Data Scientist @ [ONS Data Science Campus](https://datasciencecampus.ons.gov.uk/) 
 - 🌌 Formerly an astrophysicist 
-- 🧰 I build with: `Python`, `SQL` & `R`
+- 🧰 I build with: `Python` & `R`
 - 💼 My projects [portfolio page](https://tsgreen.github.io/)
 
 <!--
